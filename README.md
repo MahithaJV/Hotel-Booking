@@ -1,43 +1,48 @@
-# 📷 Image Upload & Download System
+🏨 Hotel Booking System
 
-A full-stack Node.js application that allows authenticated users to securely upload and download images.
+A secure full-stack hotel booking application built with Node.js and MongoDB.
+Users can register, log in, and book hotels through an authenticated system with encrypted password protection.
 
-Built with modern backend practices including password encryption, authentication, and MongoDB integration.
+🚀 Features
 
----
+🔐 User Registration & Login
 
-## 🚀 Features
+🔒 Password Encryption (bcrypt)
 
-- 🔐 User Authentication (Login / Register)
-- 🔒 Password Encryption using bcrypt
-- 🛡 Authorized Access Only
-- 📂 Secure Image Upload
-- 📥 Image Download Support
-- 🗄 MongoDB Database Integration
-- 🎨 Dynamic UI using EJS
+🛡 Session-Based Authentication
 
----
+🏨 Browse & Book Hotels
 
-## 🛠 Tech Stack
+📅 Reservation Management
 
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- EJS (Embedded JavaScript Templates)
+🗄 MongoDB Database Integration
 
-**Backend**
-- Node.js
-- Express.js
+🛠 Tech Stack
 
-**Database**
-- MongoDB
-- Mongoose ODM
+Frontend
 
-**Security**
-- bcrypt (Password Hashing)
-- express-session (Session Management)
+HTML5
 
----
+CSS3
 
+JavaScript
 
+EJS
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB
+
+Mongoose
+
+Security
+
+bcrypt
+
+express-session
